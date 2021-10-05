@@ -1,0 +1,48 @@
+.bingobricka>.bingorad{
+    display:flex;
+    justify-content: center;
+}
+.bingobricka>.bingorad>.bingoruta{
+    font-size: 35px;
+    border:1px solid black;
+    width: 1.3em;
+    height:1.3em;
+    margin: 5px;
+    line-height: 1.3em;
+    text-align:center;
+    border-radius: 5px;
+    padding:2px;
+}
+.bingoruta{
+    background-color:#999;
+}
+h1{
+    text-align:center;
+    color:red;
+}
+.kryssad{
+    background-color:#AFA;
+}
+body{
+    text-align: center;
+    user-select: none;
+    background-image:linear-gradient(to bottom, #EEF, #FEE, #EEF);
+}
+#output{
+    font-size: 40px;
+    border: 2px solid black;
+    background-color: yellow;
+    width: 2.2em;
+    height: 1.1em;
+    display:inline-block;
+}
+#rulla{
+    padding:5px;
+    margin:0px;
+    width: 110px;
+    font-size:3.5ex;
+    background-color: yellow;
+}
+.bingo{
+    box-shadow:0 0 15px blue;
+}
